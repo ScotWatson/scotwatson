@@ -1,4 +1,4 @@
-This is my personal profile.  I use this space for my own personal projects.  See each repository for the applicable licence.  Unless stated otherwise, all repositories are a work-in-progress and may experience breaking changes at any time.  Use at your own risk.
+This is my personal profile.  I use this space for my own personal projects.  See each repository for the applicable licence.  Unless stated otherwise, each repository is a work-in-progress and may experience breaking changes at any time.  Use at your own risk.
 
 Pronouns: He/him/his
 
