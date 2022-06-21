@@ -1,18 +1,19 @@
-#Javascript Style Guide
+# Javascript Style Guide
 
 Nothing is set in stone here. These are style preferences, not religious dogmas.
 
-##Consistency
+## Consistency
 A style guide is a set of rules that developers follow when writing their code to ensure consistency between developers.
 
-##Readability
+## Readability
 There’s may not be a problem in either of their approaches, but if you’ve got different developers writing code differently, your codebase will start to look a little bit unreadable. Also, new developers coming into the team won’t necessarily know which best approach to use.
 
-##Predictability
+## Predictability
 
-##Efficiency
+## Efficiency
 
-##Major Javascript Style Guides
+## Major Javascript Style Guides
+
 [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/)
 
 [JavaScript Standard Style](https://standardjs.com/index.html)
