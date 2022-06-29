@@ -42,3 +42,12 @@ Use const for all of your references; avoid using var.
 If you must reassign references, use let instead of var.
 Use the literal syntax for object creation.
 
+# Promises
+
+Promises are used when the runtime of the function is unknown.
+
+# Function Arguments
+
+All function that take any arguments must accept an arguments object.  If the meaning of a single parameter is obvious, this can be accepted as well.
+Functions with two parameters are to be used only in the rare circumstances where the meaning of the parameters is obvious.
+Functions with three or more parameters are never to be used.
